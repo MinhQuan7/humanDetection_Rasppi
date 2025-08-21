@@ -1,0 +1,5 @@
+sudo apt install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev
+pip uninstall opencv-python
+pip install opencv-python-headless==4.5.5.64 
+sudo apt update && sudo apt upgrade -y
+sudo apt install libcamera-dev libcamera-apps

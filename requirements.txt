@@ -1,0 +1,8 @@
+opencv-python>=4.6.0
+numpy
+imutils
+paho-mqtt
+shapely
+google-auth
+google-auth-oauthlib
+google-api-python-client
